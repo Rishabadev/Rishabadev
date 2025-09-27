@@ -5,7 +5,6 @@
 
 - 🌱 I’m currently learning **HDL/Verilog ,*Robotics & Embedded Systems**: Path planning, sensor integration, and control algorithms.**
 
-- 🤝 I’m looking for help with **eCommerce with Django**
 
 - 📫 How to reach me **rishabadevp@gmail.com**
 
