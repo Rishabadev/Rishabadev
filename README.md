@@ -10,6 +10,7 @@
 
 <!-- 🚀 ROBOTICS INTRO -->
 <h2 align="center">🤖 Engineering the Future, One Robot at a Time</h2>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?duration=3500&color=00F5FF&center=true&vCenter=true&height=40&width=600&lines=Robotics+Enthusiast;Embedded+Systems+Developer;Verilog+%7C+HDL+Learner;Autonomous+Systems+%7C+Sensors+%7C+IoT;Always+Building.+Always+Learning." />
 </p>
@@ -66,6 +67,23 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rishabadev&show_icons=true&count_private=true&cache_seconds=1800" height="180px"/>
+</p>
+
+---
+
+## 🧩 Contribution Animations
+
+### 🐍 Contribution Snake
+![Snake animation](https://github.com/rishabadev/rishabadev/blob/output/github-contribution-grid-snake.svg)
+
+### 🧊 3D Contribution Graph
+<p align="center">
+  <img src="https://github.com/rishabadev/rishabadev/raw/main/profile-3d-contrib/profile-night-rainbow.svg" width="700" />
+</p>
+
+### 🔥 Heatmap Wave Animation
+<p align="center">
+  <img src="https://github.com/rishabadev/rishabadev/raw/main/contributions.svg" width="700" />
 </p>
 
 ---
