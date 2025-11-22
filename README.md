@@ -1,5 +1,11 @@
+
 <h1 align="center">Hi 👋, I'm Rishabadev</h1>
 <h3 align="center">Aspiring Developer | Robotics & Electronics Enthusiast</h3>
+
+<!-- 🤖 Animated Robot Mascot -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/teamedwardforever/teamedwardforever/main/robot-animate.svg" width="230"/>
+</p>
 
 <!-- 🚀 ROBOTICS INTRO -->
 <h2 align="center">🤖 Engineering the Future, One Robot at a Time</h2>
