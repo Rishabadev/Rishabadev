@@ -1,0 +1,22 @@
+name: Contribution Heatmap Animation
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generate Heatmap
+        uses: ItzMeNithin/github-readme-contrib-stats@main
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Upload Heatmap
+        uses: actions/upload-artifact@v3
+        with:
+          name: heatmap
+          path: ./contributions.svg
