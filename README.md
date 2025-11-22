@@ -2,9 +2,22 @@
 <h1 align="center">Hi 👋, I'm Rishabadev</h1>
 <h3 align="center">Aspiring Developer | Robotics & Electronics Enthusiast</h3>
 
-<!-- 🤖 Animated Robot Mascot -->
+!-- 🧠 ASCII Robotics Banner -->
+<pre>
+      ____        _       _   _       _        ____        _ _       
+     |  _ \ _   _| | ___ | |_| |__   (_) ___  |  _ \  ___ | | | ___  
+     | |_) | | | | |/ _ \| __| '_ \  | |/ __| | | | |/ _ \| | |/ _ \ 
+     |  _ <| |_| | | (_) | |_| | | | | | (__  | |_| | (_) | | | (_) |
+     |_| \_\\__,_|_|\___/ \__|_| |_| |_|\___| |____/ \___/|_|_|\___/ 
+                    Robotics • Embedded Systems • HDL/Verilog
+</pre>
+
+<h1 align="center">Hi 👋, I'm Rishabadev</h1>
+<h3 align="center">Aspiring Developer | Robotics & Electronics Enthusiast</h3>
+
+<!-- 🤖 Animated Robot Mascot (Working Version) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/teamedwardforever/teamedwardforever/main/robot-animate.svg" width="230"/>
+  <img src="https://raw.githubusercontent.com/ghost1372/ghost1372/master/assets/robot.svg" width="220"/>
 </p>
 
 <!-- 🚀 ROBOTICS INTRO -->
