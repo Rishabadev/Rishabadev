@@ -1,15 +1,21 @@
 <h1 align="center">Hi 👋, I'm Rishabadev</h1>
 <h3 align="center">Aspiring Developer | Robotics & Electronics Enthusiast</h3>
 
+<!-- 🚀 ROBOTICS INTRO -->
+<h2 align="center">🤖 Engineering the Future, One Robot at a Time</h2>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rishabadev&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://readme-typing-svg.herokuapp.com?duration=3500&color=00F5FF&center=true&vCenter=true&height=40&width=600&lines=Robotics+Enthusiast;Embedded+Systems+Developer;Verilog+%7C+HDL+Learner;Autonomous+Systems+%7C+Sensors+%7C+IoT;Always+Building.+Always+Learning." />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rishabadev&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
 ### 🚀 About Me  
 - 🌱 I’m currently learning **HDL/Verilog, Robotics & Embedded Systems**  
-  — including path planning, sensor integration, and control algorithms.  
+  — focusing on path planning, sensor integration, and control algorithms.  
 - 📫 Reach me at **rishabadevp@gmail.com**
 
 ---
@@ -56,4 +62,3 @@
 </p>
 
 ---
-
