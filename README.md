@@ -69,13 +69,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=rishabadev&show_icons=true&count_private=true&cache_seconds=1800" height="180px"/>
 </p>
 
----
 
-
-
-
-
-(https://github.com/rishabadev/rishabadev/blob/output/github-contribution-grid-snake.svg)
 
 
 <p align="center">
