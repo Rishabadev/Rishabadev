@@ -71,17 +71,16 @@
 
 ---
 
-## 🧩 Contribution Animations
 
-### 🐍 Contribution Snake
+
+
 ![Snake animation](https://github.com/rishabadev/rishabadev/blob/output/github-contribution-grid-snake.svg)
 
-### 🧊 3D Contribution Graph
+
 <p align="center">
   <img src="https://github.com/rishabadev/rishabadev/raw/main/profile-3d-contrib/profile-night-rainbow.svg" width="700" />
 </p>
 
-### 🔥 Heatmap Wave Animation
 <p align="center">
   <img src="https://github.com/rishabadev/rishabadev/raw/main/contributions.svg" width="700" />
 </p>
