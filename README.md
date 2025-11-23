@@ -74,7 +74,8 @@
 
 
 
-![Snake animation](https://github.com/rishabadev/rishabadev/blob/output/github-contribution-grid-snake.svg)
+
+(https://github.com/rishabadev/rishabadev/blob/output/github-contribution-grid-snake.svg)
 
 
 <p align="center">
