@@ -17,7 +17,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           
       - name: Commit and Push Heatmap
-  "
+  
         uses: stefanwa/git-auto-commit-action@master 
         with:
           commit_message: Update contribution heatmap SVG
