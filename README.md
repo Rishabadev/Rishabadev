@@ -60,6 +60,7 @@
 
 ---
 
+
 ### 📊 GitHub Stats  
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rishabadev&show_icons=true&layout=compact&count_private=true&cache_seconds=1800" height="180px"/>
@@ -69,8 +70,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=rishabadev&show_icons=true&count_private=true&cache_seconds=1800" height="180px"/>
 </p>
 
-
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rishabadev/rishabadev/output/dist/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</p>
 
 <p align="center">
   <img src="https://github.com/rishabadev/rishabadev/raw/main/profile-3d-contrib/profile-night-rainbow.svg" width="700" />
@@ -81,3 +83,4 @@
 </p>
 
 ---
+
