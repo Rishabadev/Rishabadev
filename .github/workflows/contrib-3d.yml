@@ -16,10 +16,10 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           
-      # --- NEW STEP TO COMMIT THE FILE ---
+
       - name: Commit and Push 3D Graph
         uses: stefanwa/git-auto-commit-action@v5
         with:
           commit_message: Update 3D contribution graph
           file_pattern: profile-3d-contrib/profile-night-rainbow.svg
-          # NOTE: The action automatically uses ${{ secrets.GITHUB_TOKEN }}
+  
