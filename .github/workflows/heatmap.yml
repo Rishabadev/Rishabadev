@@ -12,12 +12,13 @@ jobs:
         uses: actions/checkout@v3
         
       - name: Generate Heatmap
-        uses: Ashutosh00710/github-readme-contrib-stats@main
+        uses: Ashutosh00710/github-readme-contrib-stats@v1.2 # Using v1.2 as intended
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-  
+          
       - name: Commit and Push Heatmap
-        uses: stefanwa/git-auto-commit-action@v5
+  "
+        uses: stefanwa/git-auto-commit-action@master 
         with:
           commit_message: Update contribution heatmap SVG
           file_pattern: contributions.svg
